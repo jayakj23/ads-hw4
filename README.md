@@ -1,2 +1,2 @@
 # social-networks-rekognition-neo4j-blog
-Code to support the blog Understand Movie Star Social Networks Using AWS Rekognition and Neo4j
+Jupyter notebook that calls Rekognition and displays an image based on results, then calls a local Neo4j DB (on same EC2) to display a graph of relationships 
