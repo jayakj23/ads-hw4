@@ -1,0 +1,3 @@
+social-networks-rekognition-neo4j-blog
+Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved. 
+
