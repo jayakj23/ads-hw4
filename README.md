@@ -3,12 +3,12 @@ This is a Jupyter notebook that highlights the use of AWS Rekognition's facial i
 
 ## Setup
 Cloudformation templates are located under <project>/cft.  Run the following:
-'''
+```
 aws cloudformation create-stack –-stack-name rekognitionblog \
   --template-body file://rek-neo4j-blogpost-git.template \
   --parameters ParameterKey=KeyName,ParameterValue=<YOURKEYHERE> \
   --capabilities CAPABILITY_NAMED_IAM
-'''
+```
 
 
 
